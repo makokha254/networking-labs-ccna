@@ -2,7 +2,7 @@
 
 This repository contains hands-on networking labs built using Cisco Packet Tracer. The labs are designed to demonstrate practical skills required for entry-level networking roles and CCNA certification.
 
-## 🔧 Labs Included
+## Labs Included
 
 - Basic Network Configuration (Router, Switch, PCs)
 - VLAN Configuration and Segmentation
@@ -10,7 +10,7 @@ This repository contains hands-on networking labs built using Cisco Packet Trace
 - Static Routing Between Networks
 - Wireless (WiFi) Network Design
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - IP Addressing & Subnetting
 - Cisco CLI Configuration
@@ -18,15 +18,15 @@ This repository contains hands-on networking labs built using Cisco Packet Trace
 - Routing & Switching Concepts
 - Wireless Network Setup
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Cisco Packet Tracer
 
-## 📌 Purpose
+##  Purpose
 
 This project showcases my practical networking skills as I prepare for CCNA certification and entry-level roles in IT Support and Network Engineering.
 
-## 👤 Author
+##  Author
 
 Haron Makokha  
 BBIT Graduate | Aspiring Network Engineer
