@@ -1,3 +1,0 @@
-Learned how Ethernet sublayers are related to the frame fields, contents of the MAC Address which includes an Organizationally Unique Identifier which is a 24 bit numbers assigned by IEEE. 
-How switches builds its MAC table from incoming source frames and forwards them.
-Learned switch forwarding methods.
